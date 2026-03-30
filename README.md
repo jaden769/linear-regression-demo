@@ -1,4 +1,4 @@
-Linear Regression with Gradient Descent
+#Linear Regression with Gradient Descent
 
 This repository contains a simple Python program that demonstrates how to train a linear regression model using gradient descent.
 
