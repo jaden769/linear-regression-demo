@@ -23,8 +23,11 @@ Progress Tracking: Prints loss, slope, and intercept every 100 epochs.
 Example Output
 
 Epoch 0: Loss = 2262.2400, m = 4.0000, b = 1.2000
+
 Epoch 100: Loss = 58.7400, m = 14.9756, b = 12.0364
+
 Epoch 500: Loss = 3.9100, m = 11.2839, b = 25.3648
+
 Epoch 1000: Loss = 0.1300, m = 10.2361, b = 29.1476
 
 Final Model
